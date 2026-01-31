@@ -20,7 +20,7 @@ A smart, collaborative expense-splitting platform that helps groups easily manag
 
 ## 🔗 Live Preview
 
-👉 [View Splitr Live](https://splitr-your-link.vercel.app)
+👉 [View Splitr Live](https://spitr.vercel.app)
 
 ---
 
